@@ -224,13 +224,6 @@
 
 
 
-
-
-
-
-
-
-
 (function () {
 	const inputElement = document.querySelector('.form-search__input');
 	inputElement.addEventListener('blur', function () {
